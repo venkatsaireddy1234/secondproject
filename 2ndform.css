@@ -1,0 +1,22 @@
+.hed {
+    font-style: italic;
+    text-align: center;
+    font-size: large;
+}
+.bodi {
+    background-color: azure;
+    border-radius: 20px 20px;
+    justify-content: center;
+    align-self: center;
+    margin: auto;
+    width: 70%;
+    padding: 1em;
+    top: auto;
+
+
+}
+#surveyform {
+    background-color: rgb(31, 119, 196);
+    
+
+}
